@@ -7,7 +7,7 @@ ORG:Capgemini Invent;
 TITLE:Consultant\n Intelligent Industry
 EMAIL;type=INTERNET;type=WORK;type=pref:george.irving@capgemini.com
 TEL;type=WORK;type=VOICE:5038588143
-item1.ADR;type=WORK;type=pref:;;1 333 W Wacker Dr #300\nChicago\,IL\n60606
+item1.ADR;type=WORK;type=pref:;333 W Wacker Dr #300\nChicago\,IL\n60606
 item1.X-ABADR:sg
 item2.URL;type=pref:https://www.capgemini.com/service/invent/
 item2.X-ABLabel:_$!<HomePage>!$_
